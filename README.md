@@ -17,7 +17,7 @@ Hi my name is Elise and I am a sophomore management major with Honors and CIS mi
 ### Pictures
 
 
-![alt text](https://github.com/fiannaec/fiannaec.github.io/blob/main/useelisemountain.jpg)
+![alt text](useelisemountain.jpg)
 
 
 

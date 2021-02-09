@@ -23,13 +23,15 @@ I have a twin sister named Brooke attending the University of Rochester, an olde
 ### Pictures
 
 
-![alt text](beachpic.jpg)![alt text](hikingview.jpg)
-
+var layout = require('image-layout/layouts/fixed-partition');
+var result = layout(elements, {
+    align: 'center', // optional
+    containerWidth: 800,
+    idealElementHeight: 300,
+    spacing: 0
+});![alt text](beachpic.jpg)![alt text](hikingview.jpg)
 ![alt text](IMG_5365.jpg)![alt text](pinnksky.jpg)
-
 ![alt text](playingelisejmu.JPG)![alt text](fam.jpg)
-
 ![alt text](simbaimage.jpg)![alt text](simbaimage2.jpg)
-
 ![alt text](treespic.jpg)
 

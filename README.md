@@ -18,7 +18,7 @@ Hi my name is Elise and I am a sophomore management major with Honors and CIS mi
 
 
 ![alt text](useelisemountain.jpg)
-
+![alt text](playingelisejmu.JPG)
 
 
 

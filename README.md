@@ -23,7 +23,7 @@ I have a twin sister named Brooke attending the University of Rochester, an olde
 ### Pictures
 
 
-![alt text](beachpic.jpg) width="200" ![alt text](hikingview.jpg) width="200"
+![alt text](beachpic.jpg)width="200" ![alt text](hikingview.jpg)width="200"
 
 ![alt text](IMG_5365.jpg)![alt text](pinnksky.jpg)
 

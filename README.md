@@ -22,10 +22,17 @@ I have a twin sister named Brooke attending the University of Rochester, an olde
 
 ### Pictures
 
+<details>
+  <summary>Picture at the beach</summary>
+  <img src="beachpic.jpg" name="Beach Picture!">
+</details> 
+
 
 ![alt text](beachpic.jpg)![alt text](hikingview.jpg)
 ![alt text](IMG_5365.jpg)![alt text](pinnksky.jpg)
 ![alt text](playingelisejmu.JPG)![alt text](fam.jpg)
 ![alt text](simbaimage.jpg)![alt text](simbaimage2.jpg)
 ![alt text](treespic.jpg)
+
+
 

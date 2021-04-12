@@ -22,10 +22,54 @@ I have a twin sister named Brooke attending the University of Rochester, an olde
 
 ### Pictures
 
+<details>
+  <summary>Picture at the beach</summary>
+  <img src="beachpic.jpg" name="Beach Picture!">
+</details> 
 
-![alt text](beachpic.jpg)![alt text](hikingview.jpg)
-![alt text](IMG_5365.jpg)![alt text](pinnksky.jpg)
-![alt text](playingelisejmu.JPG)![alt text](fam.jpg)
-![alt text](simbaimage.jpg)![alt text](simbaimage2.jpg)
-![alt text](treespic.jpg)
+
+<details>
+  <summary>Picture of Mountain</summary>
+  <img src="hikingview.jpg" name="Mtn Pic">
+</details> 
+
+
+<details>
+  <summary>Picture of Sky</summary>
+  <img src="pinnksky.jpg" name="Pink Sky">
+</details> 
+
+
+<details>
+  <summary>Picture of Family</summary>
+  <img src="fam.jpg" name="Fam Pic">
+</details> 
+
+<details>
+  <summary>Picture of Tree</summary>
+  <img src="treespic.jpg" name="Trees">
+</details> 
+
+<details>
+  <summary>Picture of Playing Lax</summary>
+  <img src="playingelisejmu.JPG" name="Lax">
+</details> 
+
+
+<details>
+  <summary>Picture of Simba</summary>
+  <img src="simbaimage.jpg" name="Puppy">
+   <img src="simbaimage2.jpg" name="Dog">
+</details> 
+
+<details>
+  <summary>Picture of Boat</summary>
+  <img src="IMG_5365.jpg" name="Boat">
+</details> 
+
+
+
+
+
+
 
